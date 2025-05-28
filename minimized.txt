@@ -1,5 +1,6 @@
 ### Manual
 
+
 incoming-telemetry.mozilla.org
 sentry.io
 ingest.sentry.io
