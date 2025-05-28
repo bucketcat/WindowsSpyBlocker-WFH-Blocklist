@@ -12,7 +12,7 @@ analytics.google-analytics.com
 google-analytics.com
 # analytics.google.com
 # *.analytics.google.com
-
+# *.gravatar.com
 
 ### https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/dnscrypt/extra.txt
 
