@@ -16,6 +16,7 @@ google-analytics.com
 
 ### https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/dnscrypt/extra.txt
 
+
 *.2mdn.net
 *.a-msedge.net
 *.appex-rf.msn.com
