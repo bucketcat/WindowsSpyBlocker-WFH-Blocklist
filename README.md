@@ -7,6 +7,8 @@ The primary goal is to have a load balanced url for my unbound install combined 
 
 I have also added some of my static (not wildcard, ToDo) manual entries.
 
+Update: Started adding Swedish and Norwegian advertisement subdomains as this doesn't really exist in a Unbound supported format from what I've found.
+
 
 ### Whitelist
 
