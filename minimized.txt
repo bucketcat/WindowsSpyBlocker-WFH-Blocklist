@@ -16,6 +16,53 @@ google-analytics.com
 # *.gravatar.com
 
 ### Manual: Danish, Finish, Swedish and Norwegian adblock.
+
+ad.schibsted.se
+b.adx.schibsted.se
+adsync.schibsted.se
+cm.adform.net
+track.adform.net
+#### warning: might break klarna
+ads.klarna.com
+tpc.googlesyndication.com
+pagead2.googlesyndication.com
+*.googlesyndication.com
+cxd.c.xp1.ru4.com
+delivery.cxpublic.com
+*.piano.io
+track.cxense.com
+ad1.relevant-digital.com
+track.adtraction.com
+ads.dn.se
+tracker.bonnier.se
+adserver.bonniernews.se
+ad.adressa.no
+track.api.nettavisen.no
+ads.klikk.no
+tracking.adservice.com
+affiliates.adservice.com
+ads.api.nettavisen.no
+adserver.sanoma.fi
+metrics.sanoma.fi
+ads.sanoma.fi
+ads.netricaudience.com
+track.netricaudience.com
+s.ntv.io	
+ad.zmags.com	
+admanmedia.com	
+clicks.hitta.se	
+pixel.mathem.se	
+ads.expressen.se	
+ads.tradedoubler.com
+adserver.adressa.no
+ads.polarismedia.no
+bs.serving-sys.com
+
+
+
+
+### Frellwit
+
 1terms.com
 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -1171,51 +1218,6 @@ znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
 tv4-video-tracking.a2d.tv
 bumpers.tv4play.se
 se-tv4.videoplaza.tv
-ad.schibsted.se
-b.adx.schibsted.se
-adsync.schibsted.se
-cm.adform.net
-track.adform.net
-#### warning: might break klarna
-ads.klarna.com
-tpc.googlesyndication.com
-pagead2.googlesyndication.com
-*.googlesyndication.com
-cxd.c.xp1.ru4.com
-delivery.cxpublic.com
-*.piano.io
-track.cxense.com
-ad1.relevant-digital.com
-track.adtraction.com
-ads.dn.se
-tracker.bonnier.se
-adserver.bonniernews.se
-ad.adressa.no
-track.api.nettavisen.no
-ads.klikk.no
-tracking.adservice.com
-affiliates.adservice.com
-ads.api.nettavisen.no
-adserver.sanoma.fi
-metrics.sanoma.fi
-ads.sanoma.fi
-ads.netricaudience.com
-track.netricaudience.com
-s.ntv.io	
-ad.zmags.com	
-admanmedia.com	
-clicks.hitta.se	
-pixel.mathem.se	
-ads.expressen.se	
-ads.tradedoubler.com
-adserver.adressa.no
-ads.polarismedia.no
-bs.serving-sys.com
-
-
-
-
-
 
 
 ### https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/dnscrypt/extra.txt
