@@ -1,6 +1,5 @@
 ### Manual
 
-
 incoming-telemetry.mozilla.org
 sentry.io
 ingest.sentry.io
@@ -14,9 +13,7 @@ google-analytics.com
 # analytics.google.com
 # *.analytics.google.com
 # *.gravatar.com
-
 ### Manual: Danish, Finish, Swedish and Norwegian adblock.
-
 ad.schibsted.se
 b.adx.schibsted.se
 adsync.schibsted.se
@@ -57,12 +54,7 @@ ads.tradedoubler.com
 adserver.adressa.no
 ads.polarismedia.no
 bs.serving-sys.com
-
-
-
-
 ### Frellwit
-
 1terms.com
 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -978,10 +970,7 @@ tools.tradedoubler.com
 toppmarkensverige.com
 tourn.co
 tourn.se
-tpc.googlesyndication.com
 tr.apsisforms.com
-track.adform.net
-track.adtraction.com
 track.postkodlotteriet.se
 track.uniqodo.com
 track.yetric.net
@@ -1218,11 +1207,7 @@ znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
 tv4-video-tracking.a2d.tv
 bumpers.tv4play.se
 se-tv4.videoplaza.tv
-
-
 ### https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/dnscrypt/extra.txt
-
-
 *.2mdn.net
 *.a-msedge.net
 *.appex-rf.msn.com
@@ -1250,12 +1235,7 @@ se-tv4.videoplaza.tv
 *.rad.msn.com
 *.rads.msn.com
 *.telemetry.microsoft.com
-*.vortex*.data.microsoft.com
-*.vortex.data.microsoft.com
-
 ### https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/dnscrypt/spy.txt
-
-
 1oavsblobprodcus350.blob.core.windows.net
 37bvsblobprodcus311.blob.core.windows.net
 ac3.msn.com
@@ -1264,7 +1244,6 @@ adnxs.com
 ads.msn.com
 ads1.msads.net
 ads1.msn.com
-aka-cdn-ns.adtech.de
 api.cortana.ai
 api.edgeoffer.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
@@ -1312,7 +1291,6 @@ bn4sch101123110.wns.windows.com
 bn4sch101123202.wns.windows.com
 bn4sch102110124.wns.windows.com
 browser.pipe.aria.microsoft.com
-bs.serving-sys.com
 c.msn.com
 cache.datamart.windows.com
 cds1.stn.llnw.net
